@@ -1,0 +1,40 @@
+button{
+    border: blue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+h2 {
+    font-size: 35px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+#increment-btn{
+    background: red;
+}
+
+h1 {
+    font-size: 55px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+#save-btn{
+    background: cadetblue;
+}
+
+p{
+    font-family: italic;
+    font-family: bold;
+    font-size: 15px;
+}
+
+body{
+    background: aquamarine;
+    align-content: center;
+}
