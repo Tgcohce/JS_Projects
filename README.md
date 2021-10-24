@@ -1,4 +1,2 @@
 # jswork
-Just a few apps I have built in js to learn more
-
-One baby step at a time
+Basic Apps built in Javascript to get me started
